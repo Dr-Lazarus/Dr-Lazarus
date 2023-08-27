@@ -6,8 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-lazarus)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dr-lazarus)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dr-lazarus)  
 
-![Profile views](https://gpvc.arturio.dev/carrotbeetrice)
+
