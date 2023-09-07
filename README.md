@@ -1,13 +1,12 @@
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=000000&center=true&multiline=true&repeat=false&width=435&height=40&lines=Visshal+Natarajan+👋" alt="Typing SVG" /></a></p>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=300&size=20&pause=1000&color=000000&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Entrepreneur+%7C+Student+%7C+Engineer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=000000&center=true&multiline=true&repeat=true&width=435&height=40&lines=Visshal+Natarajan+👋" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=300&size=25&duration=9000&pause=1000&color=000000&center=true&multiline=true&repeat=true&width=1000&height=70&lines=Entrepreneur+%7C+Student+%7C+Engineer" alt="Typing SVG" /></a></p>
 
 ## 🧑🏽‍💻 About Me
-Hey, I'm Visshal Natarajan I am currently a final year student at Singapore University of Technology and Design (SUTD).
+Hey, I'm Visshal Natarajan  I am currently a final year student 👨🏽‍🎓 at Singapore University of Technology and Design (SUTD) 🏛️.
 
-I'm currently a Software Engineer Intern at Thales & HTX co-lab. I'm also working on my entrepreneurship idea aimed at bringing high end energy analytics to small restaurants. I'm originally from a small town called Mysore in India and now I'm living in Singapore with my family.
+I'm currently working on my entrepreneurship idea aimed at bringing high end energy analytics to small restaurants. I'm originally from a small town called Mysore in India 🇮🇳 and now I'm living in Singapore 🇸🇬 with my family.
 
-I love dark mode and keeping tabs with latest happenings in the tech space & finance. When I'm not working, I like looking deep diving, and cooking a deliciously rich biryani.
+I love dark mode and keeping tabs with latest happenings in the tech space & finance. When I'm not working, I like looking deep diving, and cooking a deliciously rich biryani 🍛.
 
 ## 🚀 Github Stats
 <br/>
