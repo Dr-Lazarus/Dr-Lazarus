@@ -49,6 +49,6 @@ I love dark mode and keeping tabs with latest happenings in the tech space & fin
 
 
  ## 🎸  Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nvisshal1980&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=nvisshal1980&redirect=true)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nvisshal1980&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nvisshal1980&redirect=true)
 
 
