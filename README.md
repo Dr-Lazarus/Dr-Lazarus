@@ -10,7 +10,7 @@
 </p>
 
 ## 🧑🏽‍💻 About Me
-Hey, I'm Visshal Natarajan  I am currently a final year student 👨🏽‍🎓 at Singapore University of Technology and Design (SUTD) 🏛️.
+Hey, I'm Visshal Natarajan  I am currently a final year student 👨🏽‍🎓 at Singapore University of Technology and Design 🏛️.
 
 I'm currently working on my entrepreneurship idea aimed at bringing high end energy analytics to small restaurants. I'm originally from a small town called Mysore in India 🇮🇳 and now I'm living in Singapore 🇸🇬 with my family.
 
@@ -27,7 +27,7 @@ I love dark mode and keeping tabs with latest happenings in the tech space & fin
 <br/>
 
 
- ## ⚡ Tech
+ ## 🖥  Technology 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -46,4 +46,9 @@ I love dark mode and keeping tabs with latest happenings in the tech space & fin
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+ ## 🎸  Music
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nvisshal1980&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=nvisshal1980&redirect=true)
+
 
