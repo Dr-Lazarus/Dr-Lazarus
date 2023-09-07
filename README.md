@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=000000&center=true&multiline=true&repeat=true&width=435&height=40&lines=Visshal+Natarajan+👋" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=000000&center=true&multiline=true&repeat=false&width=435&height=40&lines=Visshal+Natarajan+👋" alt="Typing SVG" /></a></p>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=300&size=25&duration=9000&pause=1000&color=000000&center=true&multiline=true&repeat=true&width=1000&height=70&lines=Entrepreneur+%7C+Student+%7C+Engineer" alt="Typing SVG" /></a></p>
 
 ## 🧑🏽‍💻 About Me
