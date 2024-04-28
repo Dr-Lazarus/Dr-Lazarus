@@ -14,7 +14,7 @@ Hey, I'm Visshal Natarajan  I am currently a final year student 👨🏽‍🎓 
 
 I'm currently working on my entrepreneurship idea aimed at bringing high end energy analytics to small restaurants. I'm originally from a small town called Mysore in India 🇮🇳 and now I'm living in Singapore 🇸🇬 with my family.
 
-I love dark mode and keeping tabs with latest happenings in the tech space & finance. When I'm not working, I like looking deep diving, and cooking a deliciously rich biryani 🍛.
+I love dark mode and keeping tabs with latest happenings in the tech space & finance. When I'm not working, you can find me deep diving or cooking a deliciously rich biryani 🍛.
 
 ## 🚀 Github Stats
 <br/>
