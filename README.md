@@ -4,7 +4,7 @@ Why is my username Dr-Lazarus? Honestly, it sounds really cool—I was quite sur
 
 I also think a song can reveal a lot about someone, so here's a part of me: 
 
-[![🎵 Famous Blue Raincoat](https://img.shields.io/badge/Spotify-SmokeStack%20Lightning%20-green?logo=spotify&style=flat-square)](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp?si=337a1a17f12e4ffb)
+[![🎵 Famous Blue Raincoat](https://img.shields.io/badge/Spotify-Smokestack%20Lightning%20-green?logo=spotify&style=flat-square)](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp?si=337a1a17f12e4ffb)
 
 
 Honestly, if you have some cool ideas or want to share your barista skills, hit me up—I need to make new friends!  
