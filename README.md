@@ -1,6 +1,6 @@
 I'm **Visshal Natarajan**—an MA  at the Singapore Exchange (SGX). That's my job, but I am super keen on experimenting with new tech. At the moment, I am tinkering with MCP, AI agents, and foraying into the world of philosophy to see what the fuss is about. 
 
-Why is my username Dr-Lazarus? Honestly, it sounds really cool—I was quite surprised no one had taken it already. My inspiration is Dr. Lazarus from Galxy Quest... "By Grabthar's Hammer, by the Suns Of Warvan, you shall be avenged"
+Why is my username Dr-Lazarus? Honestly, it sounds really cool—I was quite surprised no one had taken it already. My inspiration is Dr. Lazarus from Galaxy Quest... "By Grabthar's Hammer, by the Suns Of Warvan, you shall be avenged"
 
 I also think a song can reveal a lot about someone, so here's a part of me: 
 
