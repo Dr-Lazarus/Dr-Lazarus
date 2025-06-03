@@ -9,5 +9,5 @@ I also think a song can reveal a lot about someone, so here's a part of me: my f
 
 
 Honestly, if you have some cool ideas or want to share your barista skills, hit me up—I need to make new friends!  
-- 📬 Email: [nvisshal1980@gmail.com](mailto:nvisshal1980@gmail.com)  
-- 💼 LinkedIn: [Visshal Natarajan](https://www.linkedin.com/in/visshal-natarajan/)  
+[nvisshal1980@gmail.com](mailto:nvisshal1980@gmail.com)  
+
