@@ -4,7 +4,6 @@ Why is my username Dr-Lazarus? Honestly, it sounds really cool—I was quite sur
 
 I also think a song can reveal a lot about someone, so here's a part of me: 
 
-> _Listening to:_  
 > [![🎵 Famous Blue Raincoat](https://img.shields.io/badge/Spotify-Famous%20Blue%20Raincoat-green?logo=spotify&style=flat-square)](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE?si=dd890f0ab2e2410c)
 
 
