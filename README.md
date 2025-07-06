@@ -10,3 +10,5 @@ I also think a song can reveal a lot about someone, so here's a part of me:
 Honestly, if you have some cool ideas or want to share your barista skills, hit me up—I need to make new friends!  
 [nvisshal1980@gmail.com](mailto:nvisshal1980@gmail.com)  
 
+
+If you're interested in the work I did at Cloudsine (my previous job), feel free to check my github out: [Dr-Lazarus-V2](https://github.com/Dr-Lazarus-V2?tab=overview&from=2025-05-01&to=2025-05-31)
